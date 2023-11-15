@@ -22,6 +22,7 @@
   position: sticky;
   top: 0;
   z-index: 1000;
+  border: 1px solid #e3e3e3;
 }
 
 .top_bar_section_left_linkdinicon {
@@ -168,6 +169,7 @@
   justify-content: center;
   align-items: start;
   gap: 10px;
+  border: 1px solid #e3e3e3;
 }
 .dot {
   font-size: 6px;
@@ -225,6 +227,7 @@
   gap: 20px;
   position: sticky;
   top: 80px;
+  border: 1px solid #e3e3e3;
 }
 .third_section_second_com_one {
   font-family: 'Open Sans', sans-serif;
@@ -271,6 +274,7 @@
   height: 380px;
   background-color: white;
   border-radius: 10px;
+  border: 1px solid #e3e3e3;
 }
 .body_section_container_left_section_first_section_top {
   width: 100%;
@@ -293,6 +297,7 @@
   position: absolute;
   left: 70px;
   top: 20px;
+  border: 1px solid #e3e3e3;
 }
 .body_section_container_left_section_first_section_bottom {
   display: flex;
@@ -374,6 +379,7 @@
   margin-top: 210px;
   background-color: white;
   border-radius: 10px;
+  border-top: 1px solid #e3e3e3;
 }
 .left_side_second_section_partone {
   display: flex;
@@ -439,6 +445,7 @@
   height: 120px;
   background-color: white;
   border-radius: 10px;
+  border: 1px solid #e3e3e3;
 }
 .center_section_first_section_top {
   width: 100%;
@@ -528,6 +535,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  border: 1px solid #e3e3e3;
 }
 .cen_sec_third_sec_first_sec {
   width: 95%;
