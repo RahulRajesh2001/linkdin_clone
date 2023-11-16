@@ -78,6 +78,7 @@
   justify-content: center;
   align-items: center;
   width: 100px;
+  text-decoration: none;
 }
 .top_bar_section_right {
   width: 52%;
@@ -273,6 +274,10 @@
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   font-weight: 600;
+  background:none;
+}
+.third_section_second_com_fifth_part:hover{
+  cursor: pointer;
 }
 
 .body_section_container_left_section_first_section {
